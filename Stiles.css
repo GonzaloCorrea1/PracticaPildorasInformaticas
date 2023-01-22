@@ -4,7 +4,8 @@
 <style>  
 h1{  
 color:white;  
-background-color:red;  
+background-color:red; 
+font-weight: bold; 
 padding:5px;  
 }  
 p{  
